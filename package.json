@@ -8,7 +8,7 @@
   },
   "scripts": {
     "start": "node myserver.js",
-    "heroku-postbuild": "cd reactdemo && npm install && npm run build"
+    "heroku-postbuild": "cd firstreactapp && npm install && npm run build"
   }
 }
   
